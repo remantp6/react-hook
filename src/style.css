@@ -1,0 +1,42 @@
+
+.title{
+    font-size: 22px;
+    font-weight: 500;
+}
+.channel{
+    font-size: 20px;
+}
+.views{
+    color:gray;
+    font-size: 18px;
+}
+.pic img{
+    width: 100%;
+    object-fit: cover;
+}
+.btn{
+    margin: 2px;
+}
+
+
+.count{
+    display: flex;
+}
+
+/*form*/
+.cont{
+    width: 100%;
+    margin: 100px 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form-group{
+    padding: 10px 0px;
+} 
+input{
+    padding: 20px 90px 20px 20px;
+}
+input[type="submit"]{
+    padding: 10px 20px;
+}
